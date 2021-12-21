@@ -1,0 +1,17 @@
+#titolo {
+    text-align: center;
+    color: red;
+}
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h3 {
+    font-weight: 600;
+    color: rgb(56, 56, 56);
+}
+
+.separator-title {
+    margin: 50px;
+}
